@@ -1,6 +1,8 @@
-## Welcome to kustomzone's github homepage!
 
-With a 'dat://' compatible browser this link below will redirect to 
-Donut, a social chat app run on the Dat P2P network.
+scripts to download, build and run a Linux system that can executed on the web, using native WebAssembly (Wasm).
+
+https://github.com/kustomzone/linux-wasm
+
+demo
 
 https://kustomzone.github.io
